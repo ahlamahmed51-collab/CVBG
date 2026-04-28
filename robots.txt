@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cvbg-xi.vercel.app/sitemap.xml
